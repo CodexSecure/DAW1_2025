@@ -1,0 +1,17 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos de configuración
+.env
+config.json
+
+# Archivos temporales y logs
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpeta de dependencias de Node.js
+node_modules/

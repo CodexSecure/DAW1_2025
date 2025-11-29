@@ -1,0 +1,51 @@
+### **Ejercicio 1: Variables y operaciones**
+
+1. Declara las siguientes variables con nombres descriptivos en **snake_case**:
+
+   * `nombre` (cadena de texto)
+   * `edad` (entero)
+   * `altura` (decimal)
+   * `es_estudiante` (booleano)
+
+2. Imprime un mensaje usando **f-string** que diga:
+
+   ```
+   Nombre: <nombre>, Edad: <edad>, Altura: <altura> m, Estudiante: <es_estudiante>
+   ```
+
+3. Crea dos variables numéricas adicionales y realiza:
+
+   * Suma
+   * Resta
+   * Multiplicación
+   * División
+   * División entera
+   * Resto
+   * Potencia
+
+Imprime cada resultado en una línea diferente con un mensaje descriptivo.
+
+---
+
+### **Ejercicio 2: Asignación múltiple y concatenación**
+
+1. Crea una lista de **tres frutas**.
+2. Usa **unpacking** para asignarlas a tres variables: `fruta1`, `fruta2`, `fruta3`.
+3. Crea tres variables adicionales `a`, `b`, `c` y asigna el **mismo valor** a todas en una sola línea.
+4. Imprime un mensaje concatenando las frutas y las variables `a`, `b`, `c`, usando tanto **`+` como f-strings**.
+
+---
+
+### **Ejercicio 3: Variables globales y locales**
+
+1. Declara una variable global `contador` con valor `0`.
+2. Crea una función `aumentar_contador()` que:
+
+   * Use la palabra clave `global`
+   * Sume 1 a `contador` cada vez que se llame
+3. Llama a la función tres veces y luego imprime el valor de `contador`.
+4. Crea otra función `contador_local()` que declare una variable `contador` **local** e intente aumentarla.
+5. Llama a `contador_local()` y luego imprime la variable global para comprobar que no se modificó.
+
+---
+

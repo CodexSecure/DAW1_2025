@@ -15,3 +15,6 @@ Thumbs.db
 
 # Carpeta de dependencias de Node.js
 node_modules/
+
+#carpetas
+respuestas/

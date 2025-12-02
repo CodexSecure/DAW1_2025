@@ -1,0 +1,14 @@
+Enunciado
+Crea un programa en Python que:
+Declare variables para almacenar tres notas parciales de un alumno.
+Calcule la media aritmética de esas notas.
+Calcule la nota final ponderada, donde:
+Primer parcial = 20%
+Segundo parcial = 30%
+Tercer parcial = 50%
+
+Usa funciones para:
+Pedir las notas.
+Calcular la media.
+Calcular la nota ponderada.
+Mostrar los resultados.

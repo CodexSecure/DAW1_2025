@@ -12,6 +12,7 @@ config.json
 # Archivos del sistema
 .DS_Store
 Thumbs.db
+pruebasejmplo.py
 
 # Carpeta de dependencias de Node.js
 node_modules/

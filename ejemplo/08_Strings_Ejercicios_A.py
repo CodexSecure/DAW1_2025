@@ -9,13 +9,7 @@
 # - El ultimo caracter
 # - El string en mayúsculas
 
-nombre = "Michele"
-print("Ejercicio 1:")
-print("Longitud:", len(nombre))
-print("Primer caracter:", nombre[0])
-print("Último caracter:", nombre[-1])
-print("Mayúsculas:", nombre.upper())
-print()
+
 
 # EJERCICIO 2
 # Enunciado:
@@ -24,12 +18,7 @@ print()
 # - Una versión donde se reemplace "divertido" por "fácil"
 # - Los primeros 6 caracteres
 
-texto = "Python es divertido"
-print("Ejercicio 2:")
-print("Contiene 'divertido':", "divertido" in texto)
-print("Reemplazo:", texto.replace("divertido", "fácil"))
-print("Primeros 6 caracteres:", texto[:6])
-print()
+
 
 # EJERCICIO 3
 # Enunciado:
@@ -40,12 +29,6 @@ print()
 # - La frase con todo en minúsculas
 # - La frase sin espacios al inicio ni al final
 
-frase = "Hola Michele, bienvenido a Python"
-print("Ejercicio 3:")
-print("Frase completa:", frase)
-print("Palabra Michele:", frase[5:12])
-print("Minúsculas:", frase.lower())
-print("Sin espacios:", frase.strip())
 
 # EJERCICIO 4
 # Enunciado:
@@ -56,15 +39,6 @@ print("Sin espacios:", frase.strip())
 # - La multiplicación
 # - Un mensaje que diga "El resultado es X" donde X sea la suma.
 
-a = 10
-b = 3
-print("Ejercicio 4:")
-print("Suma:", a + b)
-print("Resta:", a - b)
-print("Multiplicación:", a * b)
-resultado = a + b
-print("El resultado es", resultado)
-print()
 
 # EJERCICIO 5
 # Enunciado:
@@ -74,10 +48,3 @@ print()
 # - La longitud del mensaje final
 # - La palabra "Hola" repetida 3 veces
 
-saludo = "Hola"
-persona = "Michele"
-print("Ejercicio 5:")
-mensaje = saludo + " " + persona
-print("Mensaje completo:", mensaje)
-print("Longitud del mensaje:", len(mensaje))
-print("Repetición:", saludo * 3)

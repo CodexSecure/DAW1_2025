@@ -1,0 +1,55 @@
+"""
+==========================================
+REGISTRO DE NOTAS DE ALUMNOS
+VERSIÓN CON HUECOS PARA RELLENAR
+==========================================
+
+INSTRUCCIONES:
+- Completa los huecos marcados con ____ para que el programa funcione correctamente.
+- Debe usar funciones, variables, strings, input(), print(), operadores y f-strings.
+- El programa pedirá datos del alumno, calculará su promedio y dirá si está aprobado.
+"""
+
+# ---------- FUNCIONES ----------
+
+def registrar_alumno():
+    print("\n--- REGISTRO DE ALUMNO ---")
+
+    nombre = input("Introduce el nombre del alumno: ")
+    edad = ____ (input("Introduce la edad del alumno: "))
+
+
+    nota1 = ____ (input("Nota 1: "))
+    nota2 = ____ (input("Nota 2: "))
+    nota3 = ____ (input("Nota 3: "))
+
+    promedio = (____ + ____ + ____)/3
+
+
+    print(f"\nAlumno: {____}, Edad: {____}, Promedio: {____}")
+
+    return nombre, edad, promedio
+
+
+def evaluar_aprobacion(______):
+    print("\n--- EVALUACIÓN ---")
+
+
+    if promedio ____ 5:
+        print(f"El alumno está ____")
+    else:
+        print(f"El alumno está ____")
+
+
+# ---------- PROGRAMA PRINCIPAL ----------
+
+def main():
+    print("SISTEMA DE REGISTRO DE NOTAS")
+
+    nombre, edad, promedio = registrar_alumno()
+
+    evaluar_aprobacion(_______)
+
+
+# Ejecutar programa
+main()

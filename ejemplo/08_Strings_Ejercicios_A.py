@@ -3,7 +3,7 @@
 
 # EJERCICIO 1
 # Enunciado:
-# Dado el string nombre = "Michele", muestra por pantalla:
+# Dado el string nombre = "Villar", muestra por pantalla:
 # - La longitud del string
 # - El primer caracter
 # - El ultimo caracter

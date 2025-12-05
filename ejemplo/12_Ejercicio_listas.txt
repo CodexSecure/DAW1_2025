@@ -1,0 +1,12 @@
+"""
+=========================================================
+EJERCICIOS COMPLEMENTARIOS DE LISTAS, VARIABLES, STRINGS
+FUNCIONES Y OPERADORES
+=========================================================
+
+Este programa integra 3 ejercicios:
+1️⃣ Registro de nombres y edades
+2️⃣ Calcular promedio y edad máxima
+3️⃣ Mensajes personalizados según la edad
+"""
+

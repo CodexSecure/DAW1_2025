@@ -1,0 +1,69 @@
+==========================================
+LISTAS EN PYTHON – RESUMEN PRÁCTICO
+==========================================
+
+1️⃣ Definición:
+- Colección ordenada de elementos.
+- Mutable: se pueden modificar.
+- Permite duplicados.
+- Indexable: acceder por posición (0,1,2…).
+- Sintaxis: [elemento1, elemento2, ...]
+
+Ejemplo:
+numeros = [10, 20, 30]
+colores = ["rojo", "verde", "azul"]
+mixta = [1, "Hola", True, 3.14]
+
+------------------------------------------
+2️⃣ Acceso a elementos:
+numeros[0]      # primer elemento
+numeros[-1]     # último elemento
+numeros[0:2]    # slicing: sublista
+
+------------------------------------------
+3️⃣ Modificar listas:
+
+Agregar:
+numeros.append(40)       # al final
+numeros.insert(1, 15)    # en índice 1
+
+Eliminar:
+numeros.remove(20)       # por valor
+del numeros[0]           # por índice
+ultimo = numeros.pop()   # elimina y devuelve el último
+
+Cambiar:
+numeros[0] = 5
+
+------------------------------------------
+4️⃣ Operaciones útiles:
+
+len(numeros)             # longitud
+if 10 in numeros: ...    # comprobar existencia
+for n in numeros: ...    # recorrer
+numeros.sort()            # ascendente
+numeros.sort(reverse=True)# descendente
+copia = numeros.copy()    # copia de la lista
+
+------------------------------------------
+5️⃣ Listas anidadas:
+
+matriz = [[1,2,3], [4,5,6], [7,8,9]]
+matriz[0][1]  # 2
+
+------------------------------------------
+6️⃣ Ventajas:
+- Flexibles y fáciles de usar
+- Pueden contener cualquier tipo de dato
+- Soportan slicing, iteración y agregación
+
+------------------------------------------
+7️⃣ Resumen rápido:
+
+Lista:
+- Ordenada ✅
+- Mutable ✅
+- Duplicados ✅
+- Indexable ✅
+Sintaxis: [elemento1, elemento2, ...]
+Métodos: append(), insert(), remove(), pop(), sort(), len(), copy()

@@ -10,3 +10,25 @@ Este programa integra 3 ejercicios:
 3️⃣ Mensajes personalizados según la edad
 """
 
+# ---------- EJERCICIO 1: Registrar personas ----------
+
+    Pide al usuario el nombre y la edad de 3 personas,
+    y devuelve dos listas: nombres y edades.
+
+
+# ---------- EJERCICIO 2: Analizar edades ----------
+
+    Recibe una lista de edades y devuelve:
+    - Promedio de edades
+    - Edad máxima
+
+# ---------- EJERCICIO 3: Mensajes personalizados ----------
+def mensajes_personalizados(nombres, edades):
+
+    Muestra mensajes personalizados según la edad:
+    - Si edad >= 21: "Nombre es mayor de edad"
+    - Si edad < 21: "Nombre es menor de edad"
+
+# ---------- PROGRAMA PRINCIPAL ----------
+
+

@@ -8,6 +8,10 @@ Este programa integra 3 ejercicios:
 1️⃣ Registro de nombres y edades
 2️⃣ Calcular promedio y edad máxima
 3️⃣ Mensajes personalizados según la edad
+4 - devolver el penultimo nombre y mostrar dos mensajes
+     ** la primera mitad del nombre es: ...... ***
+     ** la segunda mitad del nombre es: ...... ***
+     Ejemplo: Alejandro : "Alej" ---- "andro"
 """
 
 # ---------- EJERCICIO 1: Registrar personas ----------

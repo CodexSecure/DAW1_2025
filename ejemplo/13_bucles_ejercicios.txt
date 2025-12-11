@@ -1,0 +1,11 @@
+EJERCICIO 1: Orden del ejercicio:
+"Escribe un programa que pida números al usuario de uno en uno. El programa debe continuar mientras el número introducido no sea 0. Cuando el usuario introduzca 0, el programa terminará y mostrará cuántos números distintos de cero se han introducido."
+
+EJERCICIO 2: Orden del ejercicio:
+"Escribe un programa que, dada una lista de nombres, muestre únicamente aquellos cuyo número de letras sea mayor que 4."
+
+EJERCICIO 3: Orden del ejercicio:
+"Realiza un programa que pida al usuario 5 notas numéricas (pueden tener decimales). Después de introducir las cinco notas, el programa debe calcular y mostrar la media de todas ellas."
+
+EJERCICIOS 4: Orden del ejercicio:
+"Escribe un programa que vaya pidiendo números al usuario uno por uno. El proceso debe continuar mientras el número introducido sea cero o positivo. Cuando el usuario introduzca un número negativo, el programa terminará. Al finalizar, el programa debe mostrar cuántos números positivos se han introducido y la suma total de todos ellos."

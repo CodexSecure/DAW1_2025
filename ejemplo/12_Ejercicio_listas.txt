@@ -5,9 +5,9 @@ FUNCIONES Y OPERADORES
 =========================================================
 
 Este programa integra 3 ejercicios:
-1️⃣ Registro de nombres y edades
-2️⃣ Calcular promedio y edad máxima
-3️⃣ Mensajes personalizados según la edad
+1️ Registro de nombres y edades
+2️ Calcular promedio y edad máxima
+3️ Mensajes personalizados según la edad
 4 - devolver el penultimo nombre y mostrar dos mensajes
      ** la primera mitad del nombre es: ...... ***
      ** la segunda mitad del nombre es: ...... ***
@@ -30,9 +30,8 @@ Este programa integra 3 ejercicios:
 def mensajes_personalizados(nombres, edades):
 
     Muestra mensajes personalizados según la edad:
-    - Si edad >= 21: "Nombre es mayor de edad"
-    - Si edad < 21: "Nombre es menor de edad"
+    - Si edad >= 18: "Nombre es mayor de edad"
+    - Si edad < 18: "Nombre es menor de edad"
 
-# ---------- PROGRAMA PRINCIPAL ----------
 
 

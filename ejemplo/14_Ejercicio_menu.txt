@@ -1,0 +1,15 @@
+"Crea un programa en Python que muestre un menú con cuatro opciones. El usuario deberá elegir una de ellas y el programa ejecutará la acción correspondiente:
+
+Suma de números pares de una lista:
+El programa debe pedir una lista de números al usuario y mostrar la suma de todos los números pares.
+
+Adivinar un número con intentos limitados:
+El programa generará un número aleatorio y el usuario tendrá un número limitado de intentos para adivinarlo. Deberá indicar si el número introducido es mayor o menor.
+
+Calcular la media de números positivos hasta introducir un negativo:
+El programa pedirá números al usuario hasta que introduzca uno negativo. Entonces deberá calcular y mostrar la media de todos los números positivos introducidos.
+
+Salir del programa:
+El programa finalizará cuando el usuario seleccione esta opción.
+
+El menú debe repetirse hasta que el usuario elija la opción 4."

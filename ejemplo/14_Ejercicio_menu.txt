@@ -1,7 +1,7 @@
 "Crea un programa en Python que muestre un menú con cuatro opciones. El usuario deberá elegir una de ellas y el programa ejecutará la acción correspondiente:
 
 Suma de números pares de una lista:
-El programa debe pedir una lista de números al usuario y mostrar la suma de todos los números pares.
+El programa debe pedir una lista de números al usuario y mostrar la suma de todos los números pares.Introduce números separados por espacios
 
 Adivinar un número con intentos limitados:
 El programa generará un número aleatorio y el usuario tendrá un número limitado de intentos para adivinarlo. Deberá indicar si el número introducido es mayor o menor.

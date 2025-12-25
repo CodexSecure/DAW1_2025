@@ -5,9 +5,11 @@
 .env
 config.json
 
+
 # Archivos temporales y logs
 *.log
 *.tmp
+*.db
 
 # Archivos del sistema
 .DS_Store
